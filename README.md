@@ -10,7 +10,7 @@
 
 代码内容
 ---
-
+```
 class HttpRequest
 {
 function HttpRequest() {}
@@ -44,6 +44,6 @@ with(HttpRequest)
 }
 Plugins.link("kirikiroid2.dll");
 Storages.setTextEncoding("gbk");
-
+```
 ---
 
