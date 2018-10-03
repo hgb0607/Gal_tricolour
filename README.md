@@ -6,6 +6,7 @@
 3.将patch.tsj放到steam游戏《三色绘恋》根目录下   
 4.用吉里吉里2模拟器打开即可   
 
+或者直接下载项目文件：https://github.com/hgb0607/Gal_tricolour
 
 
 代码内容
